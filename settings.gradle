@@ -1,0 +1,4 @@
+rootProject.name = 'java-brushup'
+include 'first-module'
+include 'java-concepts'
+

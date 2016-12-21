@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-module/first-module.iml" filepath="$PROJECT_DIR$/.idea/modules/first-module/first-module.iml" group="first-module" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-module/first-module_main.iml" filepath="$PROJECT_DIR$/.idea/modules/first-module/first-module_main.iml" group="first-module" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-module/first-module_test.iml" filepath="$PROJECT_DIR$/.idea/modules/first-module/first-module_test.iml" group="first-module" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-brushup.iml" filepath="$PROJECT_DIR$/.idea/modules/java-brushup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-brushup_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-brushup_main.iml" group="java-brushup" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-brushup_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-brushup_test.iml" group="java-brushup" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-concepts/java-concepts.iml" filepath="$PROJECT_DIR$/.idea/modules/java-concepts/java-concepts.iml" group="java-concepts" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-concepts/java-concepts_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-concepts/java-concepts_main.iml" group="java-concepts" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-concepts/java-concepts_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-concepts/java-concepts_test.iml" group="java-concepts" />
+    </modules>
+  </component>
+</project>
