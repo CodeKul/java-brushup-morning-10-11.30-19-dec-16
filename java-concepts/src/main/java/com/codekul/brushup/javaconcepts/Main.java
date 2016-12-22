@@ -9,6 +9,6 @@ public class Main {
         System.out.println("Executing Concepts");
 
         Starter starter = new Starter();
-        starter.interfaces();
+        starter.threading();
     }
 }
