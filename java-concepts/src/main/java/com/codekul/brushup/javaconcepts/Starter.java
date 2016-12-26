@@ -10,6 +10,7 @@ import com.codekul.brushup.javaconcepts.innerclassess.Outer;
 import com.codekul.brushup.javaconcepts.interfaces.Bike;
 import com.codekul.brushup.javaconcepts.interfaces.Bird;
 import com.codekul.brushup.javaconcepts.interfaces.GpsListener;
+import com.codekul.brushup.javaconcepts.generics.Any;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
@@ -157,6 +158,16 @@ public class Starter {
                 System.out.printf("\n Runnable is %d",i);
             }
         }).start();
+    }
 
+    public void generics() {
+
+        Any<String> anyStr = new Any<>();
+        anyStr.setAnyThing("android");
+        System.out.printf("\n Anything is %s ",anyStr.getAnyThing());
+
+        Any<Integer> anyInt = new Any<>();
+        anyInt.setAnyThing(155);
+        System.out.printf("\n Anything is %d ",anyInt.getAnyThing());
     }
 }
